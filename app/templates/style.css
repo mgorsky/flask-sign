@@ -1,0 +1,53 @@
+html {
+  background-color: #f2f2f2;
+}
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #dddddd;
+  padding: 0px;
+  border: 1px solid blue;
+}
+
+.everything {
+	margin-right: 0.8em; 
+	margin-left: 0.8em;
+}
+
+#aside {
+	font-size: 1.4em;
+	position: fixed;
+	background-color: #dddddd;
+}
+
+
+h1 {
+	text-align: center;
+    top: 30px;
+	bottom: 30px;
+    margin: 0;
+    padding: 20px 0;    
+    color: #0a0a0f;
+}
+
+blockquote {
+	margin-left: 30%;
+	margin-right: 0;
+	text-align: left;
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+table {
+	width: 90%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
+}
